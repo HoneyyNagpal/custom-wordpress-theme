@@ -5,26 +5,3 @@ Description: A custom WordPress theme built using PHP, HTML, CSS, and JavaScript
 Version: 1.0
 */
 
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-}
-
-header, footer {
-    background-color: #222;
-    color: #fff;
-    padding: 16px;
-    text-align: center;
-}
-
-main {
-    padding: 20px;
-}
-
-article {
-    background: #fff;
-    padding: 16px;
-    margin-bottom: 20px;
-    border-radius: 4px;
-}

@@ -1,7 +1,2 @@
-<footer>
-    <p>&copy; <?php echo date('Y'); ?> Custom WordPress Theme</p>
-    <?php wp_footer(); ?>
-</footer>
-
-</body>
-</html>
+<?php
+get_template_part('template-parts/footer/site', 'footer');

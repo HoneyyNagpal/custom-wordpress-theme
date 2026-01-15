@@ -1,19 +1,23 @@
 # Custom WordPress Theme
 
-A custom WordPress theme developed for a content-driven platform using PHP, HTML, CSS, and JavaScript, following WordPress coding standards and best practices.
+A complete enterprise-ready WordPress theme and supporting plugin, built using PHP, MySQL, JavaScript, HTML5, and CSS3. This project demonstrates best practices in WordPress development, theme architecture, REST API usage, and plugin modularity.
 
 ## Features
-- Custom WordPress theme built from scratch
-- Custom Post Type for structured content (Articles)
-- REST API integration for content access
-- Responsive and clean layout
-- Secure and reusable codebase
+- Custom WordPress theme from scratch
+- Custom Post Type (Articles)
+- REST API integration
+- Plugin for latest article shortcode
+- Clean and reusable codebase
+- Scalable and maintainable structure
 - Git-based version control
 
 ## Tech Stack
 PHP, WordPress Core, JavaScript, MySQL, HTML5, CSS3
 
 ## Purpose
-This project focuses on understanding WordPress internals, theme architecture, REST APIs, and building scalable, maintainable solutions.
-
+This project is designed to showcase:
+- Theme architecture and template hierarchy
+- Plugin and shortcode integration
+- REST API usage
+- Enterprise coding standards and WordPress best practices
 
